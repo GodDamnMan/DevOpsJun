@@ -19,7 +19,7 @@ docker compose up --build -d
 ```bash
 curl http://localhost
 ```
-The answer should be 
+Ответ должен быть таким
 ```bash
 Hello from Effective Mobile!
 ```
